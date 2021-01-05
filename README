@@ -1,0 +1,4 @@
+This BED file contains only coordinates of the first CDS from all of 59827 transcripts from alfalfa (Medicago sativa) genome (cv. Zhongmu No.1) which was first published and annotated by Shen et al. (2020). The main purpose was to extract upstream promoter sequences of gnees of interest by using BEDtools..
+
+References
+Shen C et al. (2020) The Chromosome-Level Genome Sequence of the Autotetraploid Alfalfa and Resequencing of Core Germplasms Provide Genomic Resources for Alfalfa Research. Molecular Plant 13:1250-1261
